@@ -1,1 +1,6 @@
-new line\n
+"new line 2n"
+"new line 1rn"
+"new line 2rn"
+new line 1
+new line 2
+new line 1
